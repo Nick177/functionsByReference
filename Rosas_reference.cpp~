@@ -24,7 +24,7 @@ void numDigits(int valA, int& n);
 // ********************************************************
 //
 
-// *********************************************************
+// ********************************************************
 void computeSphere(double& a, double& v, double r);
 // Summary: Calculates area (a), volume(v).
 // Precondition: Values passed in are double greater than 0 and less than 10000 (inclusive)
